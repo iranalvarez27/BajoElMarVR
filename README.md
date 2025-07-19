@@ -101,6 +101,32 @@ Dirigida a:
 
 ---
 
+---
+
+## 🧪 Instalación y Ejecución
+
+Para ejecutar correctamente la aplicación **Bajo El Mar**, asegúrate de cumplir con los siguientes pasos:
+
+1. **Requisitos previos**:
+   - Unity 2022 o versión compatible con XR Toolkit y OVR Plugin.
+   - Dispositivo Meta Quest 2 o superior (opcional para pruebas reales).
+   - Meta XR Plugin instalado en Unity.
+
+2. **Escenas necesarias**:
+   - Asegúrate de que las siguientes escenas estén añadidas en el *Build Settings*:
+     - `MenuPrincipal`
+     - `Escena1`
+     - `Escena2`
+     - `Escena3`
+
+3. **Ejecución**:
+   - Abrir el proyecto en Unity.
+   - Configurar el XR Plugin Management en modo Oculus.
+   - Verificar que las escenas mencionadas están en el orden correcto.
+   - Ejecutar el proyecto desde Unity o compilar para Meta Quest desde la opción `Build and Run`.
+
+---
+
 ## 📚 Referencias
 
 - Ministerio de la Producción del Perú (PRODUCE)  
