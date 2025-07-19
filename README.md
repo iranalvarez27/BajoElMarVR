@@ -81,12 +81,15 @@ Dirigida a:
 
 ## 📂 Estructura del Proyecto
 
-- /Assets
-- /Prefabs: Modelos 3D de especies marinas en formato FBX
-- /Scripts: Lógica en C# (interacción, movimiento, menú)
-- /UI: Elementos de interfaz (botones, iconos, pantallas)
-- /Audio: Música ambiental y efectos
-- /Scenes: Inicio, Túneles, Exploración principal
+```plaintext
+/Assets
+├── /Prefabs        # Modelos 3D de especies marinas en formato FBX
+├── /Scripts        # Lógica en C# (interacción, movimiento, menú)
+├── /UI             # Elementos de interfaz (botones, iconos, pantallas)
+├── /Audio          # Música ambiental y efectos
+└── /Scenes         # Inicio, Túneles, Exploración principal
+```
+
 ---
 
 ## 📈 Impacto y Futuras Mejoras
@@ -98,8 +101,6 @@ Dirigida a:
   - 🐋 Ampliación del catálogo de especies.  
   - 🧭 Modo guiado por voz o asistente virtual interactivo.  
   - 💡 Implementación de retos o logros gamificados.
-
----
 
 ---
 
