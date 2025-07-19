@@ -128,6 +128,14 @@ Para ejecutar correctamente la aplicación **Bajo El Mar**, asegúrate de cumpli
 
 ---
 
+## 📲 Link del APK
+
+Puedes descargar el archivo APK de la aplicación **Bajo El Mar** desde el siguiente enlace de Google Drive:
+
+🔗 [Descargar APK](https://drive.google.com/drive/folders/15Al8X5eeos1KSCQWYK1funmX59YezexH)
+
+---
+
 ## 📚 Referencias
 
 - Ministerio de la Producción del Perú (PRODUCE)  
