@@ -101,6 +101,7 @@ Dirigida a:
   - 🐋 Ampliación del catálogo de especies.  
   - 🧭 Modo guiado por voz o asistente virtual interactivo.  
   - 💡 Implementación de retos o logros gamificados.
+  - ⚡ Optimización de assets y rendimiento para hardware standalone (Meta Quest 2).
 
 ---
 
