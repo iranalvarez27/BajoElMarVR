@@ -145,3 +145,4 @@ Puedes descargar el archivo APK de la aplicación **Bajo El Mar** desde el sigui
 - Meshy AI, Meta XR Toolkit, Unity Docs  
 - https://www.actualidadambiental.pe  
 - https://cdn.www.gob.pe
+- [Pesca y Consumo Responsable](https://pescayconsumoresponsable.produce.gob.pe/presentacion.html)
